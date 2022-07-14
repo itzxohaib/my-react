@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.badcad8d.css",
-    "main.js": "/my-app/static/js/main.1d9469e4.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.badcad8d.css.map": "/my-app/static/css/main.badcad8d.css.map",
-    "main.1d9469e4.js.map": "/my-app/static/js/main.1d9469e4.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/my-react/static/css/main.badcad8d.css",
+    "main.js": "/my-react/static/js/main.6d11ddb7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/my-react/index.html",
+    "main.badcad8d.css.map": "/my-react/static/css/main.badcad8d.css.map",
+    "main.6d11ddb7.js.map": "/my-react/static/js/main.6d11ddb7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.badcad8d.css",
-    "static/js/main.1d9469e4.js"
+    "static/js/main.6d11ddb7.js"
   ]
 }
